@@ -1,0 +1,12 @@
+QLabel {
+    font-size: 12px;
+    font-weight: 300;
+}
+QLineEdit {
+    float:left
+}
+
+QTextEdit {
+    border: 0px;
+    color:black
+}

@@ -1,0 +1,5 @@
+requests
+xlsxwriter
+selenium
+BeautifulSoup
+Pyqt5
